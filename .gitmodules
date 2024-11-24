@@ -1,3 +1,4 @@
 [submodule "themes/learn"]
     path = themes/learn
-    url = https://<token>:x-oauth-basic@github.com/username/learn-theme.git
+    url = https://github.com/username/learn-theme.git
+
